@@ -4,7 +4,7 @@
   <title><![CDATA[Ready to Run]]></title>
   <link href="http://hsiungsaas.github.com/atom.xml" rel="self"/>
   <link href="http://hsiungsaas.github.com/"/>
-  <updated>2012-12-03T16:10:58+08:00</updated>
+  <updated>2012-12-03T16:20:31+08:00</updated>
   <id>http://hsiungsaas.github.com/</id>
   <author>
     <name><![CDATA[Hsiung]]></name>
@@ -20,9 +20,9 @@
     <id>http://hsiungsaas.github.com/blog/2012/12/03/hello</id>
     <content type="html"><![CDATA[<p>Hello, world! I set up a blog using octopress. And make it a place to put together my notes on ROR and others.</p>
 
-<p>P.S.  ROR is Ruby on Rails</p>
+<p>p.s.  ROR is Ruby on Rails</p>
 
-<p>P.P.S. Expression is the most effective means of appropriating impressions. 要使你所得印象变成你自己的，最有效的法子是记录或表现成文章。</p>
+<p>p.p.s  Expression is the most effective means of appropriating impressions. 要使你所得印象变成你自己的，最有效的法子是记录或表现成文章。（《胡适留学日记》自序）</p>
 ]]></content>
   </entry>
   
