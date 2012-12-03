@@ -7,6 +7,6 @@ categories: Others
 ---
 Hello, world! I set up a blog using octopress. And make it a place to put together my notes on ROR and others. 
 
-P.S.  ROR is Ruby on Rails
+p.s.  ROR is Ruby on Rails
 
-P.P.S. Expression is the most effective means of appropriating impressions. 要使你所得印象变成你自己的，最有效的法子是记录或表现成文章。
+p.p.s  Expression is the most effective means of appropriating impressions. 要使你所得印象变成你自己的，最有效的法子是记录或表现成文章。（《胡适留学日记》自序）
